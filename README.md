@@ -1,2 +1,2 @@
 # evsproject2
-it's a evs project website
+it's an evs project website
